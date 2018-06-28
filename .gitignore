@@ -1,0 +1,10 @@
+.project
+.pydevproject
+data/
+*.pyc
+*.egg-info
+*.log
+.DS_Store
+.idea
+venv
+*.py
